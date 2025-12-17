@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "teste-sonar/1.0.0": {
+        "runtime": {
+          "teste-sonar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "teste-sonar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

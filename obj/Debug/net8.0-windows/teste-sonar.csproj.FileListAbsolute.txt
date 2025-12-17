@@ -1,0 +1,17 @@
+C:\Users\Douglas Barreto\Desktop\teste-sonar\bin\Debug\net8.0-windows\teste-sonar.exe
+C:\Users\Douglas Barreto\Desktop\teste-sonar\bin\Debug\net8.0-windows\teste-sonar.deps.json
+C:\Users\Douglas Barreto\Desktop\teste-sonar\bin\Debug\net8.0-windows\teste-sonar.runtimeconfig.json
+C:\Users\Douglas Barreto\Desktop\teste-sonar\bin\Debug\net8.0-windows\teste-sonar.dll
+C:\Users\Douglas Barreto\Desktop\teste-sonar\bin\Debug\net8.0-windows\teste-sonar.pdb
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste_sonar.FrmPrincipal.resources
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.csproj.GenerateResource.cache
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.AssemblyInfoInputs.cache
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.AssemblyInfo.cs
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.sourcelink.json
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.dll
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\refint\teste-sonar.dll
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.pdb
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\teste-sonar.genruntimeconfig.cache
+C:\Users\Douglas Barreto\Desktop\teste-sonar\obj\Debug\net8.0-windows\ref\teste-sonar.dll
