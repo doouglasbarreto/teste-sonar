@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Douglas Barreto\\Desktop\\teste-sonar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84F140AC-FEC1-4852-8DB6-EB2B41EA8A59}|teste-sonar.csproj|c:\\users\\douglas barreto\\desktop\\teste-sonar\\formulario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F140AC-FEC1-4852-8DB6-EB2B41EA8A59}|teste-sonar.csproj|solutionrelative:formulario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84F140AC-FEC1-4852-8DB6-EB2B41EA8A59}|teste-sonar.csproj|c:\\users\\douglas barreto\\desktop\\teste-sonar\\formulario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{84F140AC-FEC1-4852-8DB6-EB2B41EA8A59}|teste-sonar.csproj|solutionrelative:formulario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -67,6 +71,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Desktop\\teste-sonar\\Formulario\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Formulario\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Desktop\\teste-sonar\\Formulario\\FrmPrincipal.cs",
+              "RelativeToolTip": "Formulario\\FrmPrincipal.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAD4vyEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:44:24.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmPrincipal.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Desktop\\teste-sonar\\Formulario\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "Formulario\\FrmPrincipal.cs",

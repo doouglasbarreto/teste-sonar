@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("teste-sonar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f2a7b15a64be875bb9df7afa2edb7a4cfd0d790")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc212f5d7c9a9895a115b59c10541b9458477a43")]
 [assembly: System.Reflection.AssemblyProductAttribute("teste-sonar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("teste-sonar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
